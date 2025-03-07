@@ -1,0 +1,1 @@
+# prac5-sobel-and-previtt
